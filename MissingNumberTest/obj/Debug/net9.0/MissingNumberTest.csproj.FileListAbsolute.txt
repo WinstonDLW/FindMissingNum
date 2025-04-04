@@ -1,0 +1,14 @@
+C:\Users\Aufb\OneDrive\Desktop\projects\MissingNumberTest\MissingNumberTest\bin\Debug\net9.0\MissingNumberTest.exe
+C:\Users\Aufb\OneDrive\Desktop\projects\MissingNumberTest\MissingNumberTest\bin\Debug\net9.0\MissingNumberTest.deps.json
+C:\Users\Aufb\OneDrive\Desktop\projects\MissingNumberTest\MissingNumberTest\bin\Debug\net9.0\MissingNumberTest.runtimeconfig.json
+C:\Users\Aufb\OneDrive\Desktop\projects\MissingNumberTest\MissingNumberTest\bin\Debug\net9.0\MissingNumberTest.dll
+C:\Users\Aufb\OneDrive\Desktop\projects\MissingNumberTest\MissingNumberTest\bin\Debug\net9.0\MissingNumberTest.pdb
+C:\Users\Aufb\OneDrive\Desktop\projects\MissingNumberTest\MissingNumberTest\obj\Debug\net9.0\MissingNumberTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aufb\OneDrive\Desktop\projects\MissingNumberTest\MissingNumberTest\obj\Debug\net9.0\MissingNumberTest.AssemblyInfoInputs.cache
+C:\Users\Aufb\OneDrive\Desktop\projects\MissingNumberTest\MissingNumberTest\obj\Debug\net9.0\MissingNumberTest.AssemblyInfo.cs
+C:\Users\Aufb\OneDrive\Desktop\projects\MissingNumberTest\MissingNumberTest\obj\Debug\net9.0\MissingNumberTest.csproj.CoreCompileInputs.cache
+C:\Users\Aufb\OneDrive\Desktop\projects\MissingNumberTest\MissingNumberTest\obj\Debug\net9.0\MissingNumberTest.dll
+C:\Users\Aufb\OneDrive\Desktop\projects\MissingNumberTest\MissingNumberTest\obj\Debug\net9.0\refint\MissingNumberTest.dll
+C:\Users\Aufb\OneDrive\Desktop\projects\MissingNumberTest\MissingNumberTest\obj\Debug\net9.0\MissingNumberTest.pdb
+C:\Users\Aufb\OneDrive\Desktop\projects\MissingNumberTest\MissingNumberTest\obj\Debug\net9.0\MissingNumberTest.genruntimeconfig.cache
+C:\Users\Aufb\OneDrive\Desktop\projects\MissingNumberTest\MissingNumberTest\obj\Debug\net9.0\ref\MissingNumberTest.dll
